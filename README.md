@@ -154,4 +154,8 @@ Follow the instructions in the below page to create a container for dynamic DNS 
 ```
 
 ## References
-Installing OTS - https://www.youtube.com/watch?v=_7MWZwzWEeo
+- Installing OTS - https://www.youtube.com/watch?v=_7MWZwzWEeo
+
+## Further Reads
+- OTS Docker (not ready yet) - https://github.com/brian7704/OpenTAKServer-Docker
+- CloudTAK - https://github.com/dfpc-coe/CloudTAK
